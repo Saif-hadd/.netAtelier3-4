@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saif\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A821B7F-55BC-438E-8017-ABEC75FDF9BD}|WebApplication3\\WebApplication3.csproj|c:\\users\\saif\\source\\repos\\webapplication3\\webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A821B7F-55BC-438E-8017-ABEC75FDF9BD}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\saif\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\saif\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication3\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T20:15:10.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
